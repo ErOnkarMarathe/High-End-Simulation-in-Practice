@@ -1,4 +1,4 @@
-#Demo
+# Demo
 It contains various cuda codes for different physical scenarios
 
 1. Molecular Dynamics using Lennard-Jones forces over an infinite domain
