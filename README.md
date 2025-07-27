@@ -21,3 +21,5 @@ Implements SPH to simulate fluid particle behaviour, modelling fluid particles f
 2. PeriodicBC.cu, PeriodicBCcutoff.cu and PeriodicBCcutoffAccelerated.cu is for 2nd Task. 
 3. DEMacceleratedversion.cu is for 3rd Task
 4. sphacc.cu and sph.cu are for 4th Task.
+
+And each MP4 file is a visualisation for each scenario.
